@@ -21,3 +21,4 @@ while True:
     hero.say("Take" + numToTakeDown + "down, pass it around!")
     # Chantez la dernière ligne:
     hero.say("Take" + potionsOnTheWall + "potions of health on the wall!")
+    hero.say
